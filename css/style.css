@@ -1,0 +1,229 @@
+body{
+    background-image: url("../Resources/back-g 1.jpeg");
+}
+.img1{
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.btn{
+    background-color: rgb(13, 58, 92);
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: #a34584;
+    margin-left: 15px;
+}
+
+.btn:hover{
+    background-color: #f74369;
+    color: rgb(13, 58, 92);
+}
+h1{
+    text-align: center;
+    text-decoration-color: #f74369;
+    text-decoration-line: underline;
+    font-style: italic;
+    font-family: "DejaVu Sans",serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+/*
+about
+ */
+p{
+    color: #630c32;
+    margin-left: 15px;
+}
+body{
+    background-image: url("../Resources/back-g 1.jpeg");
+    background-size: cover;
+}
+h1{
+    color: #21457a;
+}
+.btn1{
+    background-color: #f73774;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: #7ef7dd;
+}
+
+.btn1:hover{
+    background-color: #dbdcf7;
+    color: #c658b5;
+}
+
+h3,h4{
+    color: #48ad61;
+    margin-left: 15px;
+}
+
+
+ol{
+    list-style-type: lower-alpha;
+    color: rgb(47, 69, 127);
+}
+ul{
+    list-style-type: lower-roman;
+    color: rgb(189, 5, 79);
+}
+/*gallery
+*/
+img{
+    width: 24.5%;
+    height:26vh;
+    border-radius:10px;
+}
+.btn3{
+    background-color: #c658b5;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: #dbdcf7;
+}
+
+.btn3:hover{
+    background-color: #207b6a;
+    color: #164571;
+}
+
+/*register
+*/
+.mytable,th,td{
+    border: 1px solid #911036;
+    border-collapse: collapse;
+}
+
+.mytable{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+td{
+    color: #5f8b91;
+    padding-left: 15px;
+}
+.btn4{
+    background-color: #379bf7;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: #7ef7dd;
+}
+
+.btn4:hover{
+    background-color: #dbdcf7;
+    color: #c658b5;
+}
+h3{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+.myform{
+    width: 40%;
+    margin: auto;
+    color: #fff;
+}
+.ttl1{
+    color: #7a2a79;
+}
+.ttl2{
+    color: #b31145;
+    text-align: center;
+    text-decoration-line: underline;
+}
+body{
+    background-color: #97e7f6;
+}
+.myinput1{
+    width: 100%;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(70, 231, 255, 0.21);
+}
+.mybtnreg{
+    width: 60%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 30px;
+    background-color: #b3376a;
+    border-radius: 10px;
+    border: none;
+}
+
+/*login
+*/
+.btn5{
+    background-color: #935a70;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: #2c39a7;
+    margin-left: 15px;
+}
+
+.btn5:hover{
+    background-color: #839d99;
+    color: #761235;
+}
+.section{
+    display: flex;
+}
+.section1{
+    width: 35%;
+}
+.section2{
+    width: 30%;
+    margin-left: auto;
+    background-image: url("../Resources/passion.png");
+    height: 75vh;
+    background-size: cover;
+}
+.section3{
+    width: 35%;
+}
+h2{
+    font-size: xxx-large;
+    text-align: center;
+    color: #935a70;
+}
+body{
+    background-color: #5c7e7f;
+
+}
+.myforma{
+    margin-left: 50px;
+}
+.myinput1{
+    border-radius: 10px;
+    border: none;
+    width: 60%;
+    height: 5vh;
+}
+h1{
+    font-size: xxx-large;
+    margin-left: 30px;
+}
+.mybtn1{
+    background-color: #9a649c;
+    color: #54c1c1;
+    margin-left: auto;
+    border-radius: 10px;
+    width: 20%;
+}
+p{
+    margin-left: 50px;
+}
+.p1{
+    margin-left: 5px;
+}
